@@ -16,5 +16,5 @@ jobs:
     steps:
         - name: secondJob script
           run: |
-          echo this is the second job
-          echo and this is a multi-line script
+            echo this is the second job
+            echo and this is a multi-line script
